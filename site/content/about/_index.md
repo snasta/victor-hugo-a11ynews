@@ -11,7 +11,7 @@ Accessibility in the News is a weekly newsletter by Jack McElaney that delivers 
 
 For daily accessibility news updates follow our twitter account [@A11yNews](https://www.twitter.com/a11ynews).
 
-We also write articles about accessibility including periodic commentaries for Lexis-Nexis Mealey's on [Digital Accessibility Digest]((https://www.microassist.com/digital-access/news/).
+We also write articles about accessibility including periodic commentaries for Lexis-Nexis Mealey's on [Digital Accessibility Digest](https://www.microassist.com/digital-access/news/).
 
 [Microassist](https://www.microassist.com):   Founded Microassist in 1988.   We started as a software training company, about the time Michael Dell started selling computers in Austin.  We've evolved into a development company--we develop applications and learning.   We have also developed strong expertise in helping our clients make their digital assets accessible--comply with Section 508, WCAG.
 
