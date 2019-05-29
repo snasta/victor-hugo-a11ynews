@@ -1,7 +1,6 @@
 +++
-title = "About"
-date = "2019-05-14"
-menu = "main"
+title = "A11yNews - Accessibility News and Resources"
+date = "2019-05-16"
 disable_comments = true
 +++
 
