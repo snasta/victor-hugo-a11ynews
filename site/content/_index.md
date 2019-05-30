@@ -4,7 +4,7 @@ date = "2019-05-16"
 disable_comments = true
 +++
 
-A11yNews is the website for Accessibility in the News and the associated twitter account [@A11yNews](https://www.twitter.com/a11ynews).  
+A11yNews is the website for the twitter account [@A11yNews](https://www.twitter.com/a11ynews).  
 
 Please note that this site is in beta.  We are using it to learn about static site tools and making static sites accessible. 
 
