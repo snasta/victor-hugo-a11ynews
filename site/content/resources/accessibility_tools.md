@@ -18,15 +18,15 @@ draft: false
 	Enable: Chrome://flags/#enable-devtools-experiments  
 	Enable: Accessibility Inspection
 
-###Color Contrast Checker
+### Color Contrast Checker
 * [Color Oracle](http://colororacle.org/) - App (Mac/Win/Linux)
 * [WCAG 2.0 Colour Contrast Analyser (CCA)](https://www.paciellogroup.com/resources/contrastanalyser/) - By The Paciello Group, Desktop App (Mac/Win)
 * [Material Design Color Tool](https://material.io/color/#!/?view.left=0&view.right=0)
 * [Contrast Ratio](http://leaverou.github.io/contrast-ratio/) by Lea Verou
 * [Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 
-###Other Accessibility Tools
-* [Paul J. Adam's JavaScript Bookmarklets for Accessibility Testing](http://pauljadam.com/bookmarklets.html) - Browser Addons
+### Other Accessibility Tools
+* [Paul J. Adam's JavaScript Bookmarklets for Accessibility Testing](http://pauljadam.com/bookmarklets.html) - [Browser Addons\
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - Desktop App (Mac/iOS)
 * [Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/) - By The Paciello Group, IE Extension (Win only)
 * [Google’s Lighthouse (automated tool, accessibility section)](https://developers.google.com/web/tools/lighthouse/)
